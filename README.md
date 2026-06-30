@@ -6,7 +6,7 @@ This project showcases a professional UI with sidebar navigation, dark/light the
 ---
 
 ## 🌐 Live Preview
-🔗 (Add your Vercel / GitHub Pages link here)
+npx plugins add vercel/vercel-plugin
 
 ---
 
